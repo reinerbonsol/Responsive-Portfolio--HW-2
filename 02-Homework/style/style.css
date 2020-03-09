@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #606060;
+}
+
+.main-img {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/programming-1857236_1920.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
